@@ -1,0 +1,16 @@
+.login_page {
+  background: url('images/background.jpg') repeat;
+  background-position: center;
+  background-size: cover;
+}
+.login_box {
+  margin-top: 80px;
+}
+.login_left {
+  padding: 30px;
+  background: rgba(211,211, 211, 0.5)
+}
+.login_right {
+  padding: 30px;
+  background: #fff;
+}
